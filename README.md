@@ -3,29 +3,29 @@
 1. Dataset was downloaded for the kaggle with the kaggle API usage.
 2. Correct the Column names.
 3. Drop Unnamaed Column.
-4. Change weekly_study_hours column
+4. Change weekly_study_hours column.
 5. Analysis
-    1. Gender Destribution
-    2. Impact by Parent Eduction
-    3. Impact by Parent Marital Status
-    4. Impact by Test preparation
-    5. Impact by Weekly Study Hours
-    6. Impact by sport practice
-    7. Impact by Transport means
-    8. Impact by no of sibilings
-    9. Impact of lunch type
-    10. impact of first child or not
-6. Outlier detection
+    1. Gender Distribution.
+    2. Impact by Parent Education.
+    3. Impact by Parent Marital Status.
+    4. Impact by Test preparation.
+    5. Impact by Weekly Study Hours.
+    6. Impact by sport practice.
+    7. Impact by Transport means.
+    8. Impact by no of siblings.
+    9. Impact of lunch type.
+    10. impact of first child or not.
+6. Outlier detection.
 7. Distribution of the ethnic groups.
-8. Insights
+8. Insights.
 
-1. For the first step the kaggle was installed in the python envirnment then the API token was generated and which was used to directly downlod the data set into the system.
+1. For the first step the kaggle was installed in the python environment then the API token was generated and which was used to directly download the dataset into the system.
 2. The column names were corrected by the re package in which for every second instance of captial letter the "_" was added, and column names were converted to lower case.
 3. later the unnamed column was dropped by using the drop command.
-4.  As there is no anamoly their no need to change the wkly hours
+4.  As there is no anamoly their no need to change the wkly hours.
 5.  individual analysis was performed on each factors.
-6.  Outlier detection
-7.  Distribution of the ethnic groups
+6.  Outlier detection.
+7.  Distribution of the ethnic groups.
 8.  insights were drawn.
    
 ![alt text](Relationship_representation.jpg)
