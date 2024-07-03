@@ -19,6 +19,7 @@
 7. Distribution of the ethnic groups.
 8. Insights.
 
+# In detail
 1. For the first step the kaggle was installed in the python environment then the API token was generated and which was used to directly download the dataset into the system.
 2. The column names were corrected by the re package in which for every second instance of captial letter the "_" was added, and column names were converted to lower case.
 3. later the unnamed column was dropped by using the drop command.
