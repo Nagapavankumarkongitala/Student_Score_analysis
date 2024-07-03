@@ -1,6 +1,6 @@
 # Student_Score_analysis
 # Objective
-This project is type analyze the factors affecting the scoring of the students. In the the scores were taken as the depended variable and the remaining factors were taken as the independent and the analysis was performed each and very factor and the insights were drawn.
+This project is t0 analyze the factors affecting the scoring of the students. In the the scores were taken as the depended variable and the remaining factors were taken as the independent and the analysis was performed each and very factor and the insights were drawn.
 # Steps
 1. Dataset was downloaded for the kaggle with the kaggle API usage.
 2. Correct the Column names.
